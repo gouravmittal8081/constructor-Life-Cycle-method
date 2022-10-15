@@ -1,0 +1,12 @@
+Life cycle methods
+life cycle ek prakar ka jeevan chkra hai jisse ki programing ki language me pta chalta hai ki yah kese hua
+
+for example :=> 
+(a).when Component is loaded
+(b).when Component is loaded with state and props
+(c).Component is removed
+
+@)=> Constructor methods in Life cycle 
+
+
+* ek bar life cycle band hone ke bad firse start hoti hai , naki jaha se khatm hui vha se
